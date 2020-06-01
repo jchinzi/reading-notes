@@ -32,8 +32,10 @@ Along with tags, you as a web designer can utilize attributes such as id and cla
 |`<div></div>`|Indicates that the contents are all related - this is broad category, and sometimes can be replaced by a more specific tag|
 |`<span></span>`|Inline equivalent of `<div>`|
 |`<iframe></iframe>`|Element that allows an inline frame within which another page can be displayed.|
-|`<meta>`|Element within the `<head>` that contains information about the web page, such as keywords or a description that can be used by search engines.
+|`<meta>`|Element within the `<head>` that contains information about the web page, such as keywords or a description that can be used by search engines.|
+
 ---
+
 ## HTML Ch. 17 - HTML5 Layout
 
 With the introduction of HTML5, many new tags were added to further organize internal content of webpages, such as: 
@@ -48,6 +50,7 @@ With the introduction of HTML5, many new tags were added to further organize int
 |`<section></section>`|Groups related content together.|
 |`<hgroup></hgroup>`|Heading Groups are used to group one or more heading elements (`<h1> - <h6>`) together so that they can be treated as a single heading.|
 |`<figure></figure>`|Can contain any content that is referenced from the main flow of an article.  Should also include a `<figcaption>` element to provide a text description.|
+
 ---
 
 ## HTML Ch. 18 - Process & Design
