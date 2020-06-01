@@ -43,7 +43,7 @@ With the introduction of HTML5, many new tags were added to further organize int
 |Tag|Description|
 |:-:|--:|
 |`<header></header>`|Indicates the header for the webpage OR for a section of that page.|
-|`<footer></footer>`|Indicates the footer for the webpage OR for a section of that page.||
+|`<footer></footer>`|Indicates the footer for the webpage OR for a section of that page.|
 |`<nav></nav>`|Indicates the navigation bar|
 |`<article></article>`|Indicates a section that could stand alone, such as an article or comment.  Article elements can be nested within other article elements.|
 |`<aside></aside>`|Within an article element, indicates information related to but not essential to the article.  Outside of that context, indicates content related to the entire page.|
