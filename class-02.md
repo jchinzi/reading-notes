@@ -75,7 +75,9 @@ Here's where you have a couple options.  You can in fact use some minor CSS elem
 
 >  `<h3 style="color:blue;">This is a blue heading</h3>` 
 
-When rendered, that code would produce the following: <h3 style="color:blue;">This is a blue heading</h3>
+When rendered, that code would produce the following: 
+
+<h3 style="color: blue;">This is a blue heading</h3>
 
 However, too much of this can make your code look cluttered.
 
