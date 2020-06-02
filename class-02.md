@@ -204,7 +204,8 @@ When working with a team, it's important to agree on common conventions for:
   - content (both what should and should *not* be included)
   - metadata
 
-  #### The Seven Rules of a great Git commit message
+
+***The Seven Rules of a great Git commit message***
   1. Separate subject from body with a blank line
   1. Limit the subject line to 50 characters
   1. Capitalize the subject line
