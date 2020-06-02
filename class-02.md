@@ -112,6 +112,7 @@ That line allows your project to pull formatting from the linked css file so tha
 |assignment operator|used to assign a value to a variable (=)|
 |array|variable that stores a list of values|
 |expression|something that evaluates into a single value, either by assigning a value to a variable or by using multiple values to return a single value|
+
 ---
 > **Operators**: allow programmers to create a single value from one or more values.
 
