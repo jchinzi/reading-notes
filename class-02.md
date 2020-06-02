@@ -1,6 +1,7 @@
 ## HTML Ch. 2 - Text
 
-**Structural Markup:** Elements that you can use to describe both headings and paragraphs|
+**Structural Markup:** Elements that you can use to describe both headings and paragraphs
+
 |Tag|Definition|
 |:--|--:|
 |`<p>`|Paragraph tag|
@@ -10,9 +11,11 @@
 |`<sub>`|Inline tag to <sub>subscript</sub> text|
 |`<br />`|Inline tag that adds a line break within text.  Does not have a closing tag|
 |`<hr />`|Inline tag that adds a horizontal rule to separate sections.  Does not have a closing tag|
+
 ---
 
-**Semantic Markup:** Provides extra information|
+**Semantic Markup:** Provides extra information
+
 |Tag|Definition|
 |:--|--:|
 |`<strong>`|Indicates content has strong importance.  By default, will render as **bold**|
@@ -26,9 +29,16 @@
 |`<ins>`|Used to show content that has been <ins>inserted</ins>|
 |`<del>`|Used to show content that has been <del>deleted</del>.|
 |`<s>`|Strikethrough - indicates information that is no longer accurate|
+
 ---
 
-**Headings** come in 6 levels: <h1>H1</h1> <h2>H2</h2> <h3>H3</h3> <h4>H4</h4> <h5>H5</h5> <h6>H6</h6>
+**Headings** come in 6 levels: 
+<h1>H1</h1> 
+<h2>H2</h2> 
+<h3>H3</h3> 
+<h4>H4</h4> 
+<h5>H5</h5> 
+<h6>H6</h6>
 
 ---
 ---
