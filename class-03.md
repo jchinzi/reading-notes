@@ -1,16 +1,25 @@
-## HTML Ch. 3
+## HTML Ch. 3 - Lists
+
+|Term|Tag|Definition|
+|:--|:-:|--:|
+|Ordered List|`<ol>`|List where each item is numbered|
+|Unordered List|`<ul>`|List where each item begins with a bullet point|
+|List Item|`<li>`|Each item in an ordered and unordered list|
+|Definition List|`<dl>`|List made up of a set of terms along with definitions for each term|
+|Defined Term|`<dt>`|The term being defined|
+|Definition|`<dd>`|The definition|
+
+- Lists can be nested by putting a second ordered or unordered list inside a list item, thereby creating a sub-list.
+
+---
+
+## HTML Ch. 13 - Boxes
 
 
 
 ---
 
-## HTML Ch. 13
-
-
-
----
-
-## JavaScript Ch. 4
+## JavaScript Ch. 4 - Decisions and Loops
 
 |Term|Definition|
 |:--|--:|
