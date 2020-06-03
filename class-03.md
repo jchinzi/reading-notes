@@ -15,7 +15,48 @@
 
 ## HTML Ch. 13 - Boxes
 
+CSS treats each HTML element as if it has its own box, and allows you to control the dimensions and properties of that box
 
+Boxes default to a size just big enough to contain their contents.  However, this can be changed using height and width properties
+
+- *height* and *width* can be defined in terms of pixels, percentages, or ems
+
+  - Percentages refer to the size relative to the browser or containing box (if applicable)
+  - Ems refer to the size of the text within the box
+
+  - *min-width* and *max-width* properties dictate the minimum and maximum size a box can be displayed when the browser window size is changed  
+  - A similar result can be achieved with *min-height* and *max-height*
+
+- *overflow* tells the browser what to do if the contents of a box are larger than the box
+
+  - *hidden* will hide any additional content
+
+  - *scroll* will add a scrollbar so users can access additional content by scrolling down
+
+*border* separates the edge of one box from another
+
+  - *border-width* can be noted in pixels or using the key words *thin*, *medium* or *thick*
+  - there are many border styles available, including *solid*, *dashed*, and *inset*
+  - *border-color* can be specified using RGB values, hexcodes, or CSS color names
+  - the formatting of the four sides of the border can be set individually
+
+*margin* separates adjacent boxes from one another, usually in terms of pixels
+
+  - if one box sits on top of another, margins are collapsed and the larger of the two margins will be used, disregarding the smaller one
+
+*padding* creates space between the *border* and the contents of the box, usually in terms of pixels
+
+> In order to center content, set a *width* so that the box will not fill the full page and then set *left-margin* and *right-margin* to auto
+
+*display* can be used to change inline elements into block-level elements(or vice versa)
+  - *inline-block* will cause a block-level element to flow like an inline element but retain other normal block features 
+  - *none* hides an element from rendering on the webpage
+
+> *visibility* can be set to *hidden* or *visible* - however remember that hidden elements will leave a blank space, unlike *display: none*
+
+*border-image* and *box-shadow* can be used to add decorative elements to the edge of your box
+
+Adjusting the *border-radius* allows for rounded corners on your box
 
 ---
 
