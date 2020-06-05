@@ -34,6 +34,26 @@ Three important rules for creating images are:
 ---
 ## HTML Ch. 11 - Color
 
+**RGB Values** express color in terms of how much red, green and blue are used
+
+> rgb(100,100,90)
+
+**Hex Codes** express color in six-digit codes that represent red, green and blue.  They are expressed with a leading #
+
+> #ee3e80
+
+**Color Names** are predefined and recognized names in vernacular
+
+> DarkCyan
+
+**HSL Colors** refer to hue, saturation and lightness
+
+   - *Hue* refers to color, expressed with a number between 0 and 360, like a color wheel 
+   - *Saturation* is the amount of gray in a color, expressed as a percentage between 0 and 100
+   - *Lightness* is the amount of white in a color, expressed as a percentage between 0 and 100 
+
+**Opacity** describes whether a color is solid or not, and to what degree it can be seen through.  This attribute can be appended to an rgb or hsl value by adding a fourth number, expressed as **rgba** or **hsla** respectively
+
 
 
 ---
