@@ -22,6 +22,20 @@ Domain modeling is the process of creating a conceptual model in code for a spec
 
 ## HTML Ch. 6 - Tables
 
+HTML tables are written row by row:
+> `<table>` element used to create table
+
+> `<tr>` table row: indicates the start of a row
+
+> `<td>` table data  (or `<td>` for a table heading)
+
+**table cell**: individual block in a grid
+
+*colspan*: attribute that can be used on a `<th>` or `<td>` element to indicate how many columns it should run across
+
+*rowspan*: attribute that can be used on a `<th>` or `<td>` element to indicate how many rows it should span down
+
+`<thead> <tbody> <tfoot>` elements can be used between `<table>` and `<tr>` to differentiate portions of the table to help with CSS styling
 
 
 ---
