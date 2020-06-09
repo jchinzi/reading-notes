@@ -37,10 +37,37 @@ HTML tables are written row by row:
 
 `<thead> <tbody> <tfoot>` elements can be used between `<table>` and `<tr>` to differentiate portions of the table to help with CSS styling
 
-
 ---
 
 ## JavaScript Ch. 3 - Functions, Methods, and Objects
+
+The **new** keyword and the **Object()** constructor create a blank object that you can then add properties and methods to.
+
+You can update the values of a property using dot notation or square brackets
+
+The **delete** keyword will delete a property
+
+**Object Constructors** use a function as a template for creating objects
+  
+  - the name of a constructor function *usually* begins with a capital letter to help remind developers to use the **new** keyword when they create an object using that function
+
+*Browser Object Model* contains objects that represent the current browser window or tab
+
+- See pg. 124 for examples
+
+*Document Object Model* uses objects to create a representation of the current page
+
+- See pg. 126 for examples
+
+*Global JavaScript Objects* represent things the JS language needs to create a model of
+
+- See pg. 128 & 129 for examples of String Objects
+- See pg. 132 for examples of Number Objects
+- See pg. 134 for examples of Math Objects
+- See pg. 137 for examples of Date (and Time) Objects
+
+
+
 
 ---
 [Home](https://jchinzi.github.io/reading-notes/)
