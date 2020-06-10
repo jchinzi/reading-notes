@@ -40,6 +40,47 @@ Much of this chapter describes different elements used to create forms - refer b
 ## JavaScript Ch. 6 - Events
 
 
+**Events** are the browser's way of indicating when something has happened
+
+**Binding** is the process of stating which event you are waiting to happen, and which element you are waiting for that event to happen upon
+
+When an event occurs on an element it can trigger a JS function.
+
+- Event Types are listed on p. 246-247
+
+Events *trigger* a function or script when they are *fired* or *raised*
+
+Event Handling involves 3 Steps
+
+1. Select the element notes you want the script to respond to
+
+1. Indicate which event on the selected node will trigger the response
+
+1. State the code you want to run when the even occurs 
+
+*event flow* describes the order in which the events that handlers/listeners are bound to fire off
+
+- In *event bubbling*, events start at the most specific node and flow outward to the least specific
+
+- In *event capturing*, events start at the least specific node and flow inward to the most specific
+
+*event objects* tell information about an event when it happens, as well as the element it happened upon
+
+*event delegation* describes delegating the job of the event listener to a parent of the element
+
+There are event objects designed specifically to change the default behavior of an element and how the element's ancestors respond to the event.  See p. 267 for examples
+
+**load** event is used to trigger scripts that access the contents of the page
+
+p. 274 details *Focus* and *Blur* events
+
+p. 276 details *Mouse* events
+
+p. 280 details *Keyboard* events
+
+p. 282 details *Form* events
+
+p. 284 details *Mutation* events
 
 ---
 [Home](https://jchinzi.github.io/reading-notes/)
