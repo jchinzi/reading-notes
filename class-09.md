@@ -19,7 +19,21 @@ Much of this chapter describes different elements used to create forms - refer b
 
 ## HTML Ch. 14 - Lists, Tables & Forms
 
+**list-style-type** allows for formatting of markers used in `<ol>`, `<ul>` and `<li>`  Alternately, images can be used with *list-style-image*
 
+**list-style-position** positions the marker inside or outside of the text box
+
+- Table properties can be found on p. 337-338
+
+- Empty cells can be formatted specifically (see p. 339)
+
+- Text styling options can be found on p. 342
+
+- Submit Button styling options can be found on p. 343
+
+- Fieldset and Legend styling options can be found on p. 344
+
+- Cursor styles can be found on p. 347
 
 ---
 
