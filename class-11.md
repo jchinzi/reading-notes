@@ -12,6 +12,7 @@
 
 **sprite**: when a single image is used for several different parts of an interface
 
+---
 ## HTML Ch. 19 - Practical Information
 
 **SEO**: Search Engine Optimization
@@ -22,11 +23,16 @@
 
 When optimizing a website, it's important to understand who is coming to your site, how they found it, and if they found what they were looking for.  Tools like Google Analytics can help gather this information
 
-
+---
 ## Video and Audio APIs Article
 
+`<video>` and `<audio>` tags come imbedded with their own basic player controls that can be added using the *controls* attribute
 
+However, more customizable controls can instead be added with HTML, CSS and JavaScript
 
+[This webpage](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs) provides step by step instructions on setting up media controls using HTML, CSS and JavaScript
+
+---
 ## HTML Ch. 9 (p. 201-206 - Flash)
 
 **Flash** was a tool used for creating animations as well as playing audio and video in websites.
