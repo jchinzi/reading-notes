@@ -10,7 +10,7 @@
 ---
 ## [Flexbox Froggy](https://flexboxfroggy.com/)
 
-
+Flexbox Froggy is a fun and interactive way to practice flexbox css selectors.  There are 24 levels available to play through.
 
 ---
 [Home](https://jchinzi.github.io/reading-notes/)
