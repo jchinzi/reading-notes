@@ -21,5 +21,7 @@ This site lists varies properties available for both the parent and children ele
 
 Flexbox Froggy is a fun and interactive way to practice flexbox css selectors.  There are 24 levels available to play through.
 
+<img src="img/Flexbox Froggy.png" />
+
 ---
 [Home](https://jchinzi.github.io/reading-notes/)
