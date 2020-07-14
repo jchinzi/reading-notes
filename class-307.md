@@ -1,6 +1,6 @@
 ## [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
-See reading notes from [201: Class 14](class-14.md)
+See reading notes from [201: Class 14](https://jchinzi.github.io/reading-notes/class-14)
 
 ---
 
