@@ -23,7 +23,18 @@ The call stack is inherently synchronous, executing functions one at at time, to
 
 ## [JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
+**Types of Error Messages:**
 
+- *Reference Errors* (common with undeclared variables)
+- *Syntax Errors*
+- *Range Errors* (common with invalid length values)
+- *Type Errors* (common when mistakenly accessing properties of undefined type variables)
+
+**Tools for Debugging**
+
+- console.log();
+- debugger statements
+- try...catch
 
 ---
 
