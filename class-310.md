@@ -1,6 +1,10 @@
 ## [The Call Stack defined on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
+**call stack**: mechanism for an interpreter to keep track of its place in a script that calls multiple functions
+- what function is currently being run
+- what functions are called within that function
 
+Call stacks begin empty, add functions as they are called, and once each function has executed all of its code it is automatically removed from the call stack.  This process will continue till the call stack is completely empty again.
 
 ---
 
