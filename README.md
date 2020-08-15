@@ -8,7 +8,7 @@
 
 ## Code 201 Readings
 
-- [Daily Reading #1](https://jchinzi.github.io/reading-notes/201/class-01)
+- [Daily Reading #1](https://jchinzi.github.io/reading-notes/class-01)
 - [Daily Reading #2](https://jchinzi.github.io/reading-notes/class-02)
 - [Daily Reading #3](https://jchinzi.github.io/reading-notes/class-03)
 - [Daily Reading #4](https://jchinzi.github.io/reading-notes/class-04)
