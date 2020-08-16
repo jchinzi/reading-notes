@@ -67,7 +67,7 @@ Questions like this can ensure that all parties involved are on the same page be
 
 Once we think we know these answers, it's time to build out a site map and wireframe.  The site map allows you to plan the structure of your site, while the wireframe is at it's core a bare bones representation of what kinds of information will be on each page and how that information will be organized.  We're not talking fonts and color swatches yet - we're not even talking content so much as broad categories sorted into a diagram that represents the skeleton or *wireframe* of the website that will be.
 
-![An example of a wireframe](Wireframe.jpg  "Example")
+![An example of a wireframe](../img/Wireframe.jpg  "Example")
 
 While building the wireframe it can be helpful to start thinking about design elements that will help to bring the overall concept of the website together, such as what information may need to pop - that's where you'll want to implement a thoughtful use of font size, color and style to bring your vision to life.
 
