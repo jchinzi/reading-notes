@@ -14,19 +14,20 @@ Yes - socket.io is a communication library that uses websockets where appropriat
 
 **What happens when a client emits an event?**
 
-
+Events emitted by the client are sent to the server to be handled.
 
 **What happens when a server emits an event?**
 
-
+Events emitted by the server can be sent to all connected clients or to a specified segment of clients by specifying a namespace or room.  Clients who receive the event may have functions in place to handle the event.
 
 **What happens if a client “misses” an event?**
 
-
+Missed events are analogous to unhandled events - nothing 'happens'.
 
 **How can we mitigate this?**
 
-
+- Confirm that event handlers are in place to perform necessary actions meant to be triggered by events.
+- Include error handlers as a second layer of event handling if things don't work as intended
 
 ---
 
