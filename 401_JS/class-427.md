@@ -8,9 +8,7 @@ You do not need a web server in order to run a React app - React builds a virtua
 
 **Why do we prefer to test a React application at the behavior rather than the unit level?**
 
-Unit testing looks at code in isolation whereas behavior-driven testing looks at overall outcomes of the system.  
-
-*Source: *
+Unit testing looks at code in isolation whereas behavior-driven testing looks at overall outcomes of the system.  Because React is state based and focused on user experience, behavioral testing is more in line with the ethos of React app development.
 
 **What does npm run build do?**
 
