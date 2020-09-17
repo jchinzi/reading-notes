@@ -2,27 +2,39 @@
 
 **Do child components have direct access to props/state from the parent?**
 
-
-
-*Source: *
+Parents have to share their states (and any other information they wish to pass along) by passing props to their child components.
 
 **When a component “wraps” another component, how does the child component’s output get rendered?**
 
+Wrapped components receive all the props of the container - along with any additional props that may be passed - and is rendered based on those props.
 
-
-*Source: *
+*Source: https://reactjs.org/docs/higher-order-components.html*
 
 **Can a component, such as <Content />, which is a child also be used as a standalone component elsewhere in the application?**
 
-
-
-*Source: *
+Yes - components are modular, reusable pieces of code that can be rendered multiple times if need be.
 
 **What trick can a parent use to share all props with it’s children**
 
+A spread operator can be used as a cleaner way to pass all props without having to retype them.  For example:
 
+```
+const IntermediateComponent = (props) => {
+  return (
+    <ChildComponent prop1={props.prop1} prop2={props.prop2} />
+  )
+}
+```
+can instead be written as
+```
+const IntermediateComponent = (props) => {
+  return (
+    <ChildComponent {...props} />
+  )
+}
+```
 
-*Source: *
+*Source: https://flaviocopes.com/react-pass-props-to-children/*
 
 ---
 
