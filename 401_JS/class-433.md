@@ -22,9 +22,9 @@ While custom hooks will still work if they are named differently, the convention
 
 **What do custom hooks usually do?**
 
+Custom hooks let you extract component logic into reusable functions.
 
-
-*Source: *
+*Source: https://reactjs.org/docs/hooks-custom.html*
 
 **Using any list of custom hooks, research and name one that you think will be useful in your applications**
 
