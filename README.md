@@ -76,7 +76,6 @@
 - [Daily Reading #37](https://jchinzi.github.io/reading-notes/401_JS/class-437)
 - [Daily Reading #38](https://jchinzi.github.io/reading-notes/401_JS/class-438)
 - [Daily Reading #39](https://jchinzi.github.io/reading-notes/401_JS/class-439)
-- [Daily Reading #40](https://jchinzi.github.io/reading-notes/401_JS/class-440)
 - [Daily Reading #41](https://jchinzi.github.io/reading-notes/401_JS/class-441)
 - [Daily Reading #42](https://jchinzi.github.io/reading-notes/401_JS/class-442)
 - [Daily Reading #43](https://jchinzi.github.io/reading-notes/401_JS/class-443)
