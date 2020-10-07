@@ -18,7 +18,19 @@ A link to GitHub that highlights the open source nature of many projects hosted 
 
 [What Motivates a Developer to Contribute to Open-Source Software?](https://clearcode.cc/blog/why-developers-contribute-open-source-software/)
 
+**OSS***: Open-Source Software
 
+*Reasons for Contributions*:
+
+* Improve Coding Skills
+
+* Gain Early Experience
+
+* Increase Community and Peer Recognition
+
+* Greater Job Prospects
+
+* Improve Software on a User and Business Level
 
 ---
 
